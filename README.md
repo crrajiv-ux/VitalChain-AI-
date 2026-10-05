@@ -41,7 +41,6 @@ VitalChain AI is a real-time pharmaceutical cold chain monitoring platform that 
 - [📁 Project Structure](#-project-structure)
 - [⚡ Installation & Quick Start](#-installation--quick-start)
 - [🔌 API Reference](#-api-reference)
-- [🗺️ Future Roadmap](#️-future-roadmap)
 - [👥 Team — Byte-X-ploit](#-team--byte-x-ploit)
 
 ---
@@ -477,16 +476,6 @@ temperature ≤ 8.0 °C  →  risk = "Low"    (Within safe cold chain window)
 ```
 
 ---
-
-## 🗺️ Future Roadmap
-
-```
-PHASE 1 — Current (Hackathon MVP)          ██████████░░░░░░  65%
-PHASE 2 — Hardware Integration             ░░░░░░░░░░░░░░░░   0%
-PHASE 3 — Real Blockchain (Polygon)        ░░░░░░░░░░░░░░░░   0%
-PHASE 4 — Mobile Application              ░░░░░░░░░░░░░░░░   0%
-PHASE 5 — Enterprise & Regulatory         ░░░░░░░░░░░░░░░░   0%
-```
 
 ### 🔧 Phase 2 — Hardware Integration (Arduino / Raspberry Pi)
 - Replace simulated sensor data with **real DHT22 temperature & humidity sensors** connected via Arduino Uno or Raspberry Pi
