@@ -43,7 +43,6 @@ VitalChain AI is a real-time pharmaceutical cold chain monitoring platform that 
 - [🔌 API Reference](#-api-reference)
 - [🗺️ Future Roadmap](#️-future-roadmap)
 - [👥 Team — Byte-X-ploit](#-team--byte-x-ploit)
-- [📄 License](#-license)
 
 ---
 
