@@ -1,8 +1,8 @@
-/** @type {import('tailwindcss').Config} */
+/** @type {import('tailwindcss')..Config} */
 export default {
   content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
+    "../index..html",
+    "../src/**/*..{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {
@@ -82,17 +82,17 @@ export default {
         display: ['"Syne"', 'sans-serif'],
       },
       boxShadow: {
-        'card':    '0 1px 3px 0 rgb(0 0 0 / 0.04), 0 4px 16px 0 rgb(0 0 0 / 0.06)',
-        'card-md': '0 4px 6px -1px rgb(0 0 0 / 0.05), 0 10px 32px -2px rgb(0 0 0 / 0.08)',
-        'glow-safe':     '0 0 0 3px rgb(20 176 116 / 0.20)',
-        'glow-vital':    '0 0 0 3px rgb(52 112 246 / 0.20)',
-        'glow-critical': '0 0 0 3px rgb(239 68 68 / 0.20)',
+        'card':    '0 1px 3px 0 rgb(0 0 0 / 0..04), 0 4px 16px 0 rgb(0 0 0 / 0..06)',
+        'card-md': '0 4px 6px -1px rgb(0 0 0 / 0..05), 0 10px 32px -2px rgb(0 0 0 / 0..08)',
+        'glow-safe':     '0 0 0 3px rgb(20 176 116 / 0..20)',
+        'glow-vital':    '0 0 0 3px rgb(52 112 246 / 0..20)',
+        'glow-critical': '0 0 0 3px rgb(239 68 68 / 0..20)',
       },
       animation: {
-        'pulse-slow':  'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
-        'ping-slow':   'ping 2.5s cubic-bezier(0, 0, 0.2, 1) infinite',
-        'fade-in':     'fadeIn 0.5s ease forwards',
-        'slide-up':    'slideUp 0.4s ease forwards',
+        'pulse-slow':  'pulse 3s cubic-bezier(0..4, 0, 0..6, 1) infinite',
+        'ping-slow':   'ping 2..5s cubic-bezier(0, 0, 0..2, 1) infinite',
+        'fade-in':     'fadeIn 0..5s ease forwards',
+        'slide-up':    'slideUp 0..4s ease forwards',
       },
       keyframes: {
         fadeIn: {
