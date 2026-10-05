@@ -4,7 +4,6 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Hackathon%20Build-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
