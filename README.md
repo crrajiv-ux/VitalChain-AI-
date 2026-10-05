@@ -10,7 +10,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Simulated%20Ledger-F59E0B?style=for-the-badge&logo=ethereum&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Predictive%20Risk-EF4444?style=for-the-badge&logo=openai&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-8B5CF6?style=for-the-badge)
 ![Team](https://img.shields.io/badge/Team-Byte--X--ploit-0f2d56?style=for-the-badge&logo=github&logoColor=white)
 
 <br/><br/>
