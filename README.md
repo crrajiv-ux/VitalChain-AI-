@@ -516,77 +516,11 @@ PHASE 5 — Enterprise & Regulatory         ░░░░░░░░░░░░
 
 ---
 
-## 👥 Team — Byte-X-ploit
-
-<div align="center">
-
-```
-  ██████╗ ██╗   ██╗████████╗███████╗    ██╗  ██╗    ██████╗ ██╗      ██████╗ ██╗████████╗
-  ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝    ╚██╗██╔╝    ██╔══██╗██║     ██╔═══██╗██║╚══██╔══╝
-  ██████╔╝ ╚████╔╝    ██║   █████╗       ╚███╔╝     ██████╔╝██║     ██║   ██║██║   ██║
-  ██╔══██╗  ╚██╔╝     ██║   ██╔══╝       ██╔██╗     ██╔═══╝ ██║     ██║   ██║██║   ██║
-  ██████╔╝   ██║      ██║   ███████╗    ██╔╝ ██╗    ██║     ███████╗╚██████╔╝██║   ██║
-  ╚═════╝    ╚═╝      ╚═╝   ╚══════╝    ╚═╝  ╚═╝    ╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 👤 Name | 🎯 Role | 🛠️ Responsibilities |
-|:-------:|:-------:|:---------------------|
-| **[Team Lead]** | Full-Stack Lead & Architect | System architecture design, Express.js backend, API design, blockchain hash simulation, risk engine logic |
-| **[Frontend Dev]** | UI/UX Engineer | React.js dashboard, Tailwind CSS design system, Framer Motion animations, component architecture |
-| **[Data Engineer]** | AI & Analytics Lead | Predictive risk algorithm, mock data generator, temperature drift model, analytics charts |
-| **[DevOps / Docs]** | Integration & Documentation | Project setup, dependency management, README, demo preparation, presentation slides |
-
-</div>
-
-<br/>
-
-<div align="center">
-
 🏆 **Team Byte-X-ploit** — Built with purpose, caffeine, and a belief that technology can save lives.
 
 *"We didn't just build a dashboard. We built the infrastructure of trust for life-saving medicines."*
 
 </div>
-
----
-
-## 🏅 Hackathon Highlights
-
-<div align="center">
-
-| Category | Achievement |
-|:--------:|:-----------:|
-| ⚡ **Speed** | Full-stack MVP built and deployed in hackathon timeframe |
-| 🎨 **Design** | Premium hospital-grade UI with Deep Blue + Emerald Green medical palette |
-| 🔗 **Innovation** | First-of-kind blockchain + AI + live map integration for pharma cold chain |
-| 🛡️ **Resilience** | Zero-downtime architecture with intelligent offline fallback |
-| 📈 **Scalability** | Architecture designed for real hardware, real blockchain, and real enterprise deployment |
-
-</div>
-
----
-
-## 📄 License
-
-```
-MIT License
-
-Copyright (c) 2025 Team Byte-X-ploit
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software.
-```
-
----
 
 <div align="center">
 
