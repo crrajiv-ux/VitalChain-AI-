@@ -1,11 +1,11 @@
-..counter {
+.counter {
   font-size: 16px;
   padding: 5px 10px;
   border-radius: 5px;
   color: var(--accent);
   background: var(--accent-bg);
   border: 2px solid transparent;
-  transition: border-color 0..3s;
+  transition: border-color 0.3s;
   margin-bottom: 24px;
 
   &:hover {
@@ -17,42 +17,42 @@
   }
 }
 
-..hero {
+.hero {
   position: relative;
 
-  ..base,
-  ..framework,
-  ..vite {
+  .base,
+  .framework,
+  .vite {
     inset-inline: 0;
     margin: 0 auto;
   }
 
-  ..base {
+  .base {
     width: 170px;
     position: relative;
     z-index: 0;
   }
 
-  ..framework,
-  ..vite {
+  .framework,
+  .vite {
     position: absolute;
   }
 
-  ..framework {
+  .framework {
     z-index: 1;
     top: 34px;
     height: 28px;
     transform: perspective(2000px) rotateZ(300deg) rotateX(44deg) rotateY(39deg)
-      scale(1..4);
+      scale(1.4);
   }
 
-  ..vite {
+  .vite {
     z-index: 0;
     top: 107px;
     height: 26px;
     width: auto;
     transform: perspective(2000px) rotateZ(300deg) rotateX(40deg) rotateY(39deg)
-      scale(0..8);
+      scale(0.8);
   }
 }
 
@@ -83,7 +83,7 @@
     }
   }
 
-  ..icon {
+  .icon {
     margin-bottom: 16px;
     width: 22px;
     height: 22px;
@@ -111,7 +111,7 @@
   gap: 8px;
   margin: 32px 0 0;
 
-  ..logo {
+  .logo {
     height: 18px;
   }
 
@@ -125,12 +125,12 @@
     align-items: center;
     gap: 8px;
     text-decoration: none;
-    transition: box-shadow 0..3s;
+    transition: box-shadow 0.3s;
 
     &:hover {
       box-shadow: var(--shadow);
     }
-    ..button-icon {
+    .button-icon {
       height: 18px;
       width: 18px;
     }
@@ -161,7 +161,7 @@
   }
 }
 
-..ticks {
+.ticks {
   position: relative;
   width: 100%;
 
@@ -169,7 +169,7 @@
   &::after {
     content: '';
     position: absolute;
-    top: -4..5px;
+    top: -4.5px;
     border: 5px solid transparent;
   }
 
